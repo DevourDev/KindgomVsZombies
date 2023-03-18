@@ -1,0 +1,34 @@
+{
+    "name": "InGameMenuControls",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "5a88c9a7-9f2c-4ca6-b814-924235e54238",
+            "actions": [
+                {
+                    "name": "MenuClose",
+                    "type": "Button",
+                    "id": "54a2a11d-0736-4b1f-ad98-b1422b21b8b9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ed5e87e5-f2ef-4ba2-a63c-93a98278a71b",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuClose",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
