@@ -32,6 +32,8 @@ namespace Game.Assets.Ui
 
         public void OnPointerDown(PointerEventData eventData)
         {
+
+            //Debug.Log(_parent.)
             Debug.Log("Down");
         }
 
